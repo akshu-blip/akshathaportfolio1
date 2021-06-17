@@ -1,0 +1,50 @@
+
+.nav-bg{
+  width: 100%;
+  background: rgb(194, 123, 82);
+
+}
+.nav-bg .nav-wrapper{
+  width: 90%;
+  margin: auto;
+  background: rgb(194, 123, 82);
+}
+
+.nav-bg .nav-wrapper .logo{
+  width: 20%;
+  background: rgb(194, 123, 82);
+
+}
+.nav-wrapper .logo img{
+  width: 25%;
+
+
+}
+
+
+
+ul {
+  list-style-type: none;
+  overflow: hidden;
+  background-color: #333;
+  margin: 0;
+  padding: 0;
+  text-align: right;
+  height: 40px;
+  width: auto;
+}
+li {
+  display: inline;
+  font-size: 25px;
+  margin-right: 10px;
+}
+a:hover{
+  background-color: red;
+
+}
+li a{
+  display: inline;
+  padding: 8px;
+  text-decoration: none;
+}
+
